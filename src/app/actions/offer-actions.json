@@ -1,0 +1,46 @@
+[
+  {
+    "panelHeadingDivId": "headingFour",
+    "panelCollapseDivId": "collapseFour",
+    "offerActionEditable": true,
+    "panelCollapseOpened": true,
+    "actionDate": "12 Agosto 2016",
+    "actionTitle": "3a llamada telefónica",
+    "actionPerformedBy": "Marcos (asesor 1)",
+    "actionObservations": "Preguntar a Jose si se ha pensado la última oferta económica y la financiación a 2 años",
+    "actionFeedback": ""
+  }, 
+  {
+    "panelHeadingDivId": "headingThree",
+    "panelCollapseDivId": "collapseThree",
+    "offerActionEditable": true,
+    "panelCollapseOpened": false,    
+    "actionDate": "10 Agosto 2016 a las 11:00",
+    "actionTitle": "Prueba dínámica VW Touran 2.0",
+    "actionPerformedBy": "Marcos (asesor 1)",
+    "actionObservations": "Jose vuelve de vacaciones, intentar organizar Prueba Dinámica",
+    "actionFeedback": "Prueba Dinámica reservada para el miércoles 10 de Agosto a las 11:00"
+  },
+  {
+    "panelHeadingDivId": "headingTwo",
+    "panelCollapseDivId": "collapseTwo",
+    "offerActionEditable": true,
+    "panelCollapseOpened": false,    
+    "actionDate": "8 Agosto 2016",
+    "actionTitle": "2a llamada telefónica",
+    "actionPerformedBy": "Marcos (asesor 1)",
+    "actionObservations": "Jose vuelve de vacaciones, intentar organizar Prueba Dinámica del Touran",
+    "actionFeedback": "Prueba Dinámica reservada para el miércoles 10 de Agosto a las 11:00. VW Touran 2.0"
+  },
+  {
+    "panelHeadingDivId": "headingOne",
+    "panelCollapseDivId": "collapseOne",
+    "offerActionEditable": true,
+    "panelCollapseOpened": false,    
+    "actionDate": "1 Agosto 2016",
+    "actionTitle": "1a llamada telefónica",
+    "actionPerformedBy": "Marcos (asesor 1)",
+    "actionObservations": "Jose necesita cambiar de coche durante el mes de agosto porque en septiembre va a tener su tercer hijo.",
+    "actionFeedback": "Esta semana está de vacaciones llamarlo la semana que viene para Prueba Dinámica del Touran"
+  }
+]

@@ -1,0 +1,15 @@
+<div class="panel panel-default">
+  <div class="panel-heading" role="tab" id="{{ $ctrl.action.panelHeadingDivId }}">
+    <h4 class="panel-title">
+      <offer-action-header action="$ctrl.action" ng-if="!$ctrl.action.offerActionEditable"></offer-action-header>
+      <a ng-if="$ctrl.action.offerActionEditable" role="button" data-toggle="collapse" data-parent="#accordion" href="#{{ $ctrl.action.panelCollapseDivId }}" aria-expanded="true" aria-controls="{{ $ctrl.action.panelCollapseDivId }}">
+        <offer-action-header action="$ctrl.action"></offer-action-header>
+      </a>
+    </h4>
+  </div>
+  <div id="{{ $ctrl.action.panelCollapseDivId }}" class="panel-collapse collapse" ng-class="{ in: $ctrl.action.panelCollapseOpened }" role="tabpanel" aria-labelledby="{{ $ctrl.action.panelHeadingDivId }}">
+    <div class="panel-body">
+      <offer-action-body action="$ctrl.action"></offer-action-body>
+    </div>
+  </div>
+</div>
